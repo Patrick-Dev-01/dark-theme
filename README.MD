@@ -1,5 +1,14 @@
-# Aplicando a funcionalidade Dark-Theme com Styled-Components
+# Dark-Theme com React JS e Styled-Components
 
-## O que são style componentes?
+## Tecnologias utilizadas
 
-- É uma forma de colocar o css dentro do Javascript, utilizando componentes estilizados.
+- Typescript
+- React JS
+- Styled-Components
+- Polished
+
+### Como rodar a aplicação
+
+- Clone o repositório,
+- execute o comando 'npm install' no seu terminal dentro da pasta 'light-dark-theme'.
+- Depois execute 'yarn start' ou 'npm start'. 
